@@ -10,6 +10,6 @@ var bot = botBuilder(function(message) {
   } else {
     return greeting.random();
   }
-});
+}, { platforms: ['twilio'] });
 
 module.exports = bot;

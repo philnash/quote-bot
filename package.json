@@ -12,10 +12,10 @@
   "author": "Phil Nash <philnash@twilio.com>",
   "license": "ISC",
   "devDependencies": {
-    "claudia": "^2.1.2"
+    "claudia": "^2.14.1"
   },
   "dependencies": {
-    "claudia-bot-builder": "^2.4.1",
+    "claudia-bot-builder": "^2.15.0",
     "greeting": "^1.0.6",
     "node-fetch": "^1.6.3"
   }
